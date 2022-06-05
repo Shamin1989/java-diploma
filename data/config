@@ -1,4 +1,4 @@
-класс	Good article about classes	http://example.org/class
-java	The Best Java course	http://example.org/java
-объект	OOP principles in practice	http://example.org/objects
-сканнер	How to use java.util.Scanner?	http://example.org/scanner
+класс	Good article about classes	https://docs.oracle.com/en/java/javase/16/docs/api/java.base/java/lang/Class.html
+java	The Best Java course	https://ru.wikipedia.org/wiki/Java
+объект	OOP principles in practice	https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Object.html
+сканнер	How to use java.util.Scanner?	https://javarush.ru/groups/posts/klass-scanner
